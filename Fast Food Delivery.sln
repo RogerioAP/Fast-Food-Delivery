@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fast Food Delivery", "Fast Food Delivery\Fast Food Delivery.csproj", "{FFD383E6-CB92-4365-B246-1AE5EE9B78FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD383E6-CB92-4365-B246-1AE5EE9B78FA}.Debug|x86.ActiveCfg = Debug|x86
+		{FFD383E6-CB92-4365-B246-1AE5EE9B78FA}.Debug|x86.Build.0 = Debug|x86
+		{FFD383E6-CB92-4365-B246-1AE5EE9B78FA}.Release|x86.ActiveCfg = Release|x86
+		{FFD383E6-CB92-4365-B246-1AE5EE9B78FA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

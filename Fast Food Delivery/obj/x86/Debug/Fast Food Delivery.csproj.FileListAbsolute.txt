@@ -1,0 +1,414 @@
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.pdb
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarusuario.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmClientescadastrados.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPainel.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLabirinto.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLogin.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPedido.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Properties.Resources.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmRelatorio.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmSobre.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.exe
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.exe
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.pdb
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarusuario.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmClientescadastrados.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPainel.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLabirinto.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLogin.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPedido.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Properties.Resources.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmRelatorio.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmSobre.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.PrintOptions.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmAlterarSenha.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmVenda.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.exe
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.pdb
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmAdicionarproduto.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmAlterarsenha.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarusuario.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmClientescadastrados.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmConfiguracao.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmEditarbairros.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmExcluircliente.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmExcluirusuario.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPainel.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLabirinto.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLogin.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmNovocliente.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPedido.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.PrintOptions.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Properties.Resources.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmRelatorio.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmSobre.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmVenda.resources
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.exe
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.pdb
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmAdicionarproduto.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmAlterarsenha.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarusuario.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmClientescadastrados.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmConfiguracao.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmEditarbairros.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmExcluircliente.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmExcluirusuario.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPainel.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLabirinto.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLogin.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmNovocliente.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPedido.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.PrintOptions.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Properties.Resources.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmRelatorio.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmSobre.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmVenda.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmProdutoscadastrados.resources
+I:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmAdicionarbairro.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmProdutoscadastrados.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmUsuarioscadastrados.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmProduto.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmBairroscadastrados.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarcliente.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmBairro.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmConfiguracoes.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe.config
+C:\Users\Rogério\Desktop\ROGÉRIO\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe.config
+C:\Users\Rogério\Desktop\ROGÉRIO\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.exe
+C:\Users\Rogério\Desktop\ROGÉRIO\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe.config
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmBairro.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmProduto.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmAlterarsenha.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmBairroscadastrados.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmConfiguracoes.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarcliente.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.PrintOptions.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmProdutoscadastrados.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmUsuarioscadastrados.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmVenda.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe.config
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.exe
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.pdb
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmBairro.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmProduto.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmAlterarsenha.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmBairroscadastrados.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarusuario.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmClientescadastrados.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmConfiguracoes.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPainel.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLabirinto.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLogin.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarcliente.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPedido.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.PrintOptions.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmProdutoscadastrados.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Properties.Resources.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmRelatorio.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmSobre.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmUsuarioscadastrados.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmVenda.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmRecuperacaodesenha.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmRecuperacaodesenha.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmRecuperacaodesenha.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe.config
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.exe
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmBairro.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmProduto.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmAlterarsenha.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmBairroscadastrados.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmRecuperacaodesenha.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarusuario.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmClientescadastrados.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmConfiguracoes.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPainel.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLabirinto.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLogin.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarcliente.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPedido.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.PrintOptions.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmProdutoscadastrados.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Properties.Resources.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmRelatorio.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmSobre.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmUsuarioscadastrados.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmVenda.resources
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.pdb
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+C:\Users\Rogério\Desktop\1\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmGerais.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmGerais.resources
+C:\Users\Rogério\Desktop\2\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe.config
+C:\Users\Rogério\Desktop\2\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.exe
+C:\Users\Rogério\Desktop\2\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmGerais.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmTela_Logo.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmTela_Logo.resources
+E:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmIncluirNomeArquivo.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe.config
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.exe
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.exe
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\bin\Debug\Telas.pdb
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmBairro.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmGerais.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmIncluirNomeArquivo.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmProduto.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmAlterarsenha.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmBairroscadastrados.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmRecuperacaodesenha.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmTela_Logo.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarusuario.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmClientescadastrados.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmConfiguracoes.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPainel.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLabirinto.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmLogin.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarcliente.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmPedido.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.PrintOptions.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmProdutoscadastrados.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Properties.Resources.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmRelatorio.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmSobre.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmUsuarioscadastrados.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmVenda.resources
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rogério\Desktop\Pasta\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmEnviarPDF.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmEnviarPDF.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmGerais.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmTela_Logo.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Bairros_cadastrados.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Telas_Gabriel.Despachar.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Editarbairros.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Telas_Gabriel.Editar_usuario.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Telas_Gabriel.Entregas_pendentes.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Novobairro.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.NovoPedido.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Novopedido_clientes.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Telas_Gabriel.Novo_usuario.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Telas_Gabriel.Usuarios_cadastrados.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Telas_Gabriel.frmUsuarios_cadastrados.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmBairros_cadastrados.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmEditarbairros.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Telas_Gabriel.frmEntregas_pendentes.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmNovobairro.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmNovoPedido.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Telas_Gabriel.frmNovo_usuario.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmNovo_usuario.resources
+J:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmUsuarios_cadastrados.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmNovo_usuario.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmUsuarios_cadastrados.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmBairros_cadastrados.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Telas_Gabriel.Despachar.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmEditarbairros.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Telas_Gabriel.frmEntregas_pendentes.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmNovobairro.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.frmNovoPedido.resources
+F:\Rogério\Fast Food Delivery\Fast Food Delivery\obj\x86\Debug\Telas.Novopedido_clientes.resources
+E:\fast\2\Fast Food Delivery\bin\Debug\Telas.exe.config
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.exe
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.Editarusuario.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmNovo_usuario.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmUsuarios_cadastrados.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmEnviarPDF.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmGerais.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmProduto.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmAlterarsenha.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmRecuperacaodesenha.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmTela_Logo.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmClientescadastrados.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmConfiguracoes.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmPainel.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmLabirinto.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmLogin.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarcliente.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmProdutoscadastrados.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.Properties.Resources.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmRelatorio.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmSobre.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmBairros_cadastrados.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.Telas_Gabriel.Despachar.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmEditarbairros.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.Telas_Gabriel.frmEntregas_pendentes.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmNovobairro.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.frmNovoPedido.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.Novopedido_clientes.resources
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\fast\2\Fast Food Delivery\bin\Debug\Telas.exe
+E:\fast\2\Fast Food Delivery\bin\Debug\Telas.pdb
+E:\fast\2\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+F:\Rogério\2\Fast Food Delivery\bin\Debug\Telas.exe.config
+F:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.exe
+F:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+J:\Rogério\2\Fast Food Delivery\bin\Debug\Telas.exe.config
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.exe
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+J:\Rogério\2\Fast Food Delivery\bin\Debug\Telas.exe
+J:\Rogério\2\Fast Food Delivery\bin\Debug\Telas.pdb
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.Editarusuario.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmNovo_usuario.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmUsuarios_cadastrados.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmEnviarPDF.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmGerais.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmProduto.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmAlterarsenha.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmRecuperacaodesenha.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmTela_Logo.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmClientescadastrados.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmConfiguracoes.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmPainel.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmLabirinto.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmLogin.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarcliente.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmProdutoscadastrados.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.Properties.Resources.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmRelatorio.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmSobre.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmBairros_cadastrados.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmEditarbairros.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmNovobairro.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmNovoPedido.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.Novopedido_clientes.resources
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmEntregas_pendentes.resources
+E:\Rogério\2\Fast Food Delivery\bin\Debug\Telas.exe.config
+E:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.exe
+E:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+D:\Rogério\2\Fast Food Delivery\bin\Debug\Telas.exe.config
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.exe
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+D:\Rogério\2\Fast Food Delivery\bin\Debug\Telas.exe
+D:\Rogério\2\Fast Food Delivery\bin\Debug\Telas.pdb
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.Editarusuario.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmNovo_usuario.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmUsuarios_cadastrados.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmEnviarPDF.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmGerais.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmProduto.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmAlterarsenha.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmRecuperacaodesenha.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmTela_Logo.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmClientescadastrados.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmConfiguracoes.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmPainel.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmLabirinto.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmLogin.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarcliente.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmProdutoscadastrados.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.Properties.Resources.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmRelatorio.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmSobre.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmBairros_cadastrados.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmEditarbairros.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmEntregas_pendentes.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmNovobairro.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.frmNovoPedido.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.Novopedido_clientes.resources
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Rogério\2\Fast Food Delivery\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Rogério\2\Fast Food Delivery\bin\Debug\Telas.exe.config
+H:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.exe
+H:\Rogério\2\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\bin\Debug\Telas.exe.config
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.exe
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\bin\Debug\Telas.exe
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\bin\Debug\Telas.pdb
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.Editarusuario.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmNovo_usuario.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmUsuarios_cadastrados.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmEnviarPDF.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmGerais.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmProduto.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmAlterarsenha.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmRecuperacaodesenha.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmTela_Logo.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmClientescadastrados.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmConfiguracoes.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmPainel.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmLabirinto.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmLogin.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarcliente.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmProdutoscadastrados.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.Properties.Resources.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmRelatorio.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmSobre.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmBairros_cadastrados.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmEditarbairros.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmEntregas_pendentes.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmNovobairro.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.frmNovoPedido.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\Telas.Novopedido_clientes.resources
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Area\IFNMG\C# - ASP\FAST FOOD DELIVERY\Apresentou\Fast Food Delivery\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\bin\Debug\Telas.exe.config
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.exe
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.pdb
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\bin\Debug\Telas.exe
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\bin\Debug\Telas.pdb
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.Editarusuario.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmNovo_usuario.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmUsuarios_cadastrados.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmEnviarPDF.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmGerais.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmProduto.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmAlterarsenha.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmRecuperacaodesenha.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmTela_Logo.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmClientescadastrados.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmConfiguracoes.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmPainel.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmLabirinto.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmLogin.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmCadastrarcliente.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmProdutoscadastrados.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.Properties.Resources.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmRelatorio.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmSobre.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmBairros_cadastrados.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmEditarbairros.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmEntregas_pendentes.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmNovobairro.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.frmNovoPedido.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\Telas.Novopedido_clientes.resources
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rogerio\.ssh\Source\fast\Fast Food Delivery\obj\x86\Debug\GenerateResource.write.1.tlog

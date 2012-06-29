@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FFD383E6-CB92-4365-B246-1AE5EE9B78FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Telas</RootNamespace>
+    <AssemblyName>Telas</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.1.2.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=5.2.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes - GABRIEL\Bairro.cs" />
+    <Compile Include="Classes - ROGÉRIO\Pedido.cs" />
+    <Compile Include="Classes - ROGÉRIO\Vendas.cs" />
+    <Compile Include="Telas - GABRIEL\Editar_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Editar_Usuario.Designer.cs">
+      <DependentUpon>Editar_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Novo_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Novo_Usuario.designer.cs">
+      <DependentUpon>Novo_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Usuarios_Cadastrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Usuarios_Cadastrados.Designer.cs">
+      <DependentUpon>Usuarios_Cadastrados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\EnviarPDF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\EnviarPDF.Designer.cs">
+      <DependentUpon>EnviarPDF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Gerais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Gerais.Designer.cs">
+      <DependentUpon>Gerais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Produto.Designer.cs">
+      <DependentUpon>Produto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\AlterarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\AlterarSenha.Designer.cs">
+      <DependentUpon>AlterarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\RecuperacaodeSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\RecuperacaodeSenha.Designer.cs">
+      <DependentUpon>RecuperacaodeSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Tela_Logo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Tela_Logo.Designer.cs">
+      <DependentUpon>Tela_Logo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes - ROGÉRIO\Classe_relatorio.cs" />
+    <Compile Include="Classes - ROGÉRIO\Cliente.cs" />
+    <Compile Include="Telas - ROGÉRIO\Clientescadastrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Clientescadastrados.Designer.cs">
+      <DependentUpon>Clientescadastrados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Configuracoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Configuracoes.Designer.cs">
+      <DependentUpon>Configuracoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conn.cs" />
+    <Compile Include="Telas - ROGÉRIO\Painel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Painel.Designer.cs">
+      <DependentUpon>Painel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Labirinto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Labirinto.Designer.cs">
+      <DependentUpon>Labirinto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Adicionarcliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Adicionarcliente.designer.cs">
+      <DependentUpon>Adicionarcliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Produtoscadastrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Produtoscadastrados.Designer.cs">
+      <DependentUpon>Produtoscadastrados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Telas - ROGÉRIO\Relatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Relatorios.Designer.cs">
+      <DependentUpon>Relatorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Sobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - ROGÉRIO\Sobre.Designer.cs">
+      <DependentUpon>Sobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes - GABRIEL\Usuario.cs" />
+    <Compile Include="Telas - GABRIEL\Bairros_Cadastrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Bairros_Cadastrados.Designer.cs">
+      <DependentUpon>Bairros_Cadastrados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Editar_Bairros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Editar_Bairros.Designer.cs">
+      <DependentUpon>Editar_Bairros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Entregas_Pendentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Entregas_Pendentes.Designer.cs">
+      <DependentUpon>Entregas_Pendentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Novo_Bairro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Novo_Bairro.Designer.cs">
+      <DependentUpon>Novo_Bairro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Novo_Pedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Novo_Pedido.Designer.cs">
+      <DependentUpon>Novo_Pedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Novo_Pedido_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas - GABRIEL\Novo_Pedido_Cliente.Designer.cs">
+      <DependentUpon>Novo_Pedido_Cliente.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Telas - GABRIEL\Editar_Usuario.resx">
+      <DependentUpon>Editar_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - GABRIEL\Novo_Usuario.resx">
+      <DependentUpon>Novo_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - GABRIEL\Usuarios_Cadastrados.resx">
+      <DependentUpon>Usuarios_Cadastrados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\EnviarPDF.resx">
+      <DependentUpon>EnviarPDF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\Gerais.resx">
+      <DependentUpon>Gerais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\Produto.resx">
+      <DependentUpon>Produto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\AlterarSenha.resx">
+      <DependentUpon>AlterarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\RecuperacaodeSenha.resx">
+      <DependentUpon>RecuperacaodeSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\Tela_Logo.resx">
+      <DependentUpon>Tela_Logo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\Clientescadastrados.resx">
+      <DependentUpon>Clientescadastrados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\Configuracoes.resx">
+      <DependentUpon>Configuracoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\Painel.resx">
+      <DependentUpon>Painel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\Labirinto.resx">
+      <DependentUpon>Labirinto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\Adicionarcliente.resx">
+      <DependentUpon>Adicionarcliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\Produtoscadastrados.resx">
+      <DependentUpon>Produtoscadastrados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Telas - ROGÉRIO\Relatorios.resx">
+      <DependentUpon>Relatorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - ROGÉRIO\Sobre.resx">
+      <DependentUpon>Sobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - GABRIEL\Bairros_Cadastrados.resx">
+      <DependentUpon>Bairros_Cadastrados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - GABRIEL\Editar_Bairros.resx">
+      <DependentUpon>Editar_Bairros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - GABRIEL\Entregas_Pendentes.resx">
+      <DependentUpon>Entregas_Pendentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - GABRIEL\Novo_Bairro.resx">
+      <DependentUpon>Novo_Bairro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - GABRIEL\Novo_Pedido.resx">
+      <DependentUpon>Novo_Pedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas - GABRIEL\Novo_Pedido_Cliente.resx">
+      <DependentUpon>Novo_Pedido_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Novo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cliente.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clientes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Relatorio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuario.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bairro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cardapio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Configurações.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AlterarSenha.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Excluir-cliente.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produtoscadastrados.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Teclado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\moto - Cópia.png" />
+    <Content Include="Resources\moto.png" />
+    <Content Include="Resources\Plano-Branco.png" />
+    <Content Include="Resources\Plano-de-Fundo.jpg" />
+    <Content Include="Resources\PlanodeFundo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Libraries\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
