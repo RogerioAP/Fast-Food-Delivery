@@ -32,6 +32,12 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmEntregas_pendentes));
             this.btnDespachar = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.Cliente = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Bairro = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Endereco = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Valor = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.despachado = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Idvenda = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnConcluir = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
             this.btnVoltar = new System.Windows.Forms.Button();
@@ -40,12 +46,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.Cliente = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Bairro = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Endereco = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Valor = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.despachado = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Idvenda = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -53,7 +53,7 @@
             // 
             this.btnDespachar.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnDespachar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnDespachar.Location = new System.Drawing.Point(791, 371);
+            this.btnDespachar.Location = new System.Drawing.Point(791, 363);
             this.btnDespachar.Name = "btnDespachar";
             this.btnDespachar.Size = new System.Drawing.Size(87, 35);
             this.btnDespachar.TabIndex = 2;
@@ -86,6 +86,48 @@
             this.dataGridView1.Size = new System.Drawing.Size(772, 468);
             this.dataGridView1.TabIndex = 9;
             // 
+            // Cliente
+            // 
+            this.Cliente.HeaderText = "Cliente";
+            this.Cliente.Name = "Cliente";
+            this.Cliente.ReadOnly = true;
+            this.Cliente.Width = 200;
+            // 
+            // Bairro
+            // 
+            this.Bairro.HeaderText = "Bairro";
+            this.Bairro.Name = "Bairro";
+            this.Bairro.ReadOnly = true;
+            this.Bairro.Width = 130;
+            // 
+            // Endereco
+            // 
+            this.Endereco.HeaderText = "Endereço";
+            this.Endereco.Name = "Endereco";
+            this.Endereco.ReadOnly = true;
+            this.Endereco.Width = 160;
+            // 
+            // Valor
+            // 
+            this.Valor.HeaderText = "Valor R$";
+            this.Valor.Name = "Valor";
+            this.Valor.ReadOnly = true;
+            this.Valor.Width = 80;
+            // 
+            // despachado
+            // 
+            this.despachado.HeaderText = "Despachado";
+            this.despachado.Name = "despachado";
+            this.despachado.ReadOnly = true;
+            this.despachado.Width = 95;
+            // 
+            // Idvenda
+            // 
+            this.Idvenda.HeaderText = "IdVenda";
+            this.Idvenda.Name = "Idvenda";
+            this.Idvenda.ReadOnly = true;
+            this.Idvenda.Visible = false;
+            // 
             // btnConcluir
             // 
             this.btnConcluir.BackColor = System.Drawing.SystemColors.ButtonHighlight;
@@ -114,7 +156,7 @@
             // 
             this.btnVoltar.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnVoltar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnVoltar.Location = new System.Drawing.Point(790, 94);
+            this.btnVoltar.Location = new System.Drawing.Point(790, 445);
             this.btnVoltar.Name = "btnVoltar";
             this.btnVoltar.Size = new System.Drawing.Size(87, 35);
             this.btnVoltar.TabIndex = 4;
@@ -126,7 +168,7 @@
             // 
             this.button1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button1.Location = new System.Drawing.Point(790, 412);
+            this.button1.Location = new System.Drawing.Point(790, 404);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(87, 35);
             this.button1.TabIndex = 3;
@@ -174,48 +216,6 @@
             this.label4.TabIndex = 15;
             this.label4.Text = "Executa o o CÓDIGO";
             this.label4.Visible = false;
-            // 
-            // Cliente
-            // 
-            this.Cliente.HeaderText = "Cliente";
-            this.Cliente.Name = "Cliente";
-            this.Cliente.ReadOnly = true;
-            this.Cliente.Width = 200;
-            // 
-            // Bairro
-            // 
-            this.Bairro.HeaderText = "Bairro";
-            this.Bairro.Name = "Bairro";
-            this.Bairro.ReadOnly = true;
-            this.Bairro.Width = 130;
-            // 
-            // Endereco
-            // 
-            this.Endereco.HeaderText = "Endereço";
-            this.Endereco.Name = "Endereco";
-            this.Endereco.ReadOnly = true;
-            this.Endereco.Width = 160;
-            // 
-            // Valor
-            // 
-            this.Valor.HeaderText = "Valor R$";
-            this.Valor.Name = "Valor";
-            this.Valor.ReadOnly = true;
-            this.Valor.Width = 80;
-            // 
-            // despachado
-            // 
-            this.despachado.HeaderText = "Despachado";
-            this.despachado.Name = "despachado";
-            this.despachado.ReadOnly = true;
-            this.despachado.Width = 95;
-            // 
-            // Idvenda
-            // 
-            this.Idvenda.HeaderText = "IdVenda";
-            this.Idvenda.Name = "Idvenda";
-            this.Idvenda.ReadOnly = true;
-            this.Idvenda.Visible = false;
             // 
             // frmEntregas_pendentes
             // 
