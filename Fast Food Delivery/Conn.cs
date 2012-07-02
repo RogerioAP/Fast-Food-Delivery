@@ -31,7 +31,8 @@ namespace Telas
             Conn.ExecuteNonQuery(commS);
         }
 
-        public static void Conectar(string bd)   //esse parâmetro vai ser o BD a qual o software vai se conectar
+        //esse parâmetro vai ser o BD a qual o software vai se conectar
+        public static void Conectar(string bd)
         {
             try
             {
@@ -51,7 +52,7 @@ namespace Telas
             }
             catch (MySqlException e)
             {
-                throw e;    /*PODE DÁ ERRO AQUI SE NÃO TIVER EXECUTADO O .SQL QUE ESTÁ NA PASTA DESTE PROJETO*/
+                throw e;
             }
         }
 

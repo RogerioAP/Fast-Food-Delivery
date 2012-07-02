@@ -4,18 +4,6 @@ using System.Windows.Forms;
 using System.Drawing;
 using System.Configuration;
 
-/*using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Windows.Forms;
-using Microsoft.Win32;
-using System.Collections;
-using System.Configuration;*/
-
 namespace Telas
 {
     public partial class frmConfiguracoes : Form
@@ -27,17 +15,25 @@ namespace Telas
             InitializeComponent();
         }
 
+        //status é para verificar se 
+        public static bool status = false;
+
+        public void Status(bool st)
+        {
+            status = st;
+        }
+
+        //muda textos na tela
         public void MudarLabel()
         {
             lblServer.Text = "Server: *";
-            //lblDatabase.Text = "Database: *";
             lblUsuario.Text = "Usuário *";
 
             lblServer.ForeColor = Color.Red;
-            //lblDatabase.ForeColor = Color.Red;
             lblUsuario.ForeColor = Color.Red;
         }
         
+        //botão fechar
         private void button1_Click(object sender, EventArgs e)
         {
             Close();
@@ -48,6 +44,7 @@ namespace Telas
 
         private void btnConectar_Click(object sender, EventArgs e)
         {
+            //testa se existem campos em branco
             if (txtServer.Text == string.Empty || txtUsuario.Text == string.Empty)
             {
                 MudarLabel();
@@ -65,23 +62,25 @@ namespace Telas
                 AppSettingsSection appSetSec = configfile.AppSettings;
                 try
                 {
+                    //muda o estilo do cursor
                     this.Cursor = Cursors.WaitCursor;
+
                     //MessageBox.Show(appSetSec.Settings["database"].Value);
                     //Conn.Conectar();
 
-                    appSetSec.Settings["hostDb"].Value = txtServer.Text;       //escrevendo no app.config
-                    //appSetSec.Settings["database"].Value = "mysql";
+                    //escrevendo no app.config
+                    appSetSec.Settings["hostDb"].Value = txtServer.Text;
                     appSetSec.Settings["userDB"].Value = txtUsuario.Text;
                     appSetSec.Settings["passwordDB"].Value = txtSenha.Text;
 
+                    //tenta conectar ao banco de dados padrão do MySql
                     Conn.Conectar("mysql");
 
                     //para salvar o arquivo modificado alinha abaixo
                     configfile.Save(ConfigurationSaveMode.Modified);
+
                     //faz a atualização do appSettings abaixo
                     ConfigurationManager.RefreshSection("appSettings");
-
-                    //MessageBox.Show("É " + appSetSec.Settings["hostDB"].Value.ToString());
 
                     //appSetSec.Settings["database"].Value = "fast";
                     ////para salvar o arquivo modificado alinha abaixo
@@ -96,15 +95,18 @@ namespace Telas
                     lblStatusdaconexao.Text = "conectado";
                     MessageBox.Show("Configuração salva com sucesso!", "Concluído!", MessageBoxButtons.OK,
                         MessageBoxIcon.Asterisk);
-                    this.Close();
+
+                    //com a conexão realizada com sucesso passa o status para true
+                    Status(true);
+                    
+                    this.Close();                    
                 }
                 catch (Exception es)
                 {
-                    MessageBox.Show("Não foi possível conectar.\nMotivo: " + es.Message, "Erro!", MessageBoxButtons.OK,
-                        MessageBoxIcon.Error);
+                    this.Cursor = Cursors.Default;
+                    MessageBox.Show("Não foi possível conectar.\nMotivo: " + es.Message, "Erro!", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
-                this.Cursor = Cursors.WaitCursor;
-                //MessageBox.Show(appSetSec.Settings["database"].Value);
+                this.Cursor = Cursors.Default;
             }
         }
     }

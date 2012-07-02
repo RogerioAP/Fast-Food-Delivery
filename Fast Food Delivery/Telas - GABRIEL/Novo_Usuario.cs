@@ -20,8 +20,9 @@ namespace Telas
             InitializeComponent();
         }
 
+        //construtor para cadastrar o 1° usuário
         public frmNovo_usuario(int a) 
-        {                              
+        {
             InitializeComponent();
 
             rdbgerente.Checked = true;
