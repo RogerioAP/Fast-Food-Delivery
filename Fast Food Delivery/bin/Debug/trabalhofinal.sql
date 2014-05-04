@@ -37,7 +37,7 @@ CREATE TABLE `bairro` (
 
 LOCK TABLES `bairro` WRITE;
 /*!40000 ALTER TABLE `bairro` DISABLE KEYS */;
-INSERT INTO `bairro` VALUES (1,'Bela Paisagem','1:00hs','3,00'),(2,'Santos Reis','0:50hs','2,00');
+INSERT INTO `bairro` VALUES (1,'Jardins','1:00hs','3,00'),(2,'Sao Norberto','0:50hs','2,00');
 /*!40000 ALTER TABLE `bairro` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -65,7 +65,7 @@ CREATE TABLE `clientes` (
 
 LOCK TABLES `clientes` WRITE;
 /*!40000 ALTER TABLE `clientes` DISABLE KEYS */;
-INSERT INTO `clientes` VALUES (1,'Maria Gabriela Almeida Pereira','rua Dois, 214','Bela Paisagem','3232-3232','333.333.333-33');
+INSERT INTO `clientes` VALUES (1,'Ana Joaquina','rua Sao Geraldo, 720','Jardins','3232-3232','333.333.333-33');
 /*!40000 ALTER TABLE `clientes` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -115,7 +115,7 @@ CREATE TABLE `entrar` (
 
 LOCK TABLES `entrar` WRITE;
 /*!40000 ALTER TABLE `entrar` DISABLE KEYS */;
-INSERT INTO `entrar` VALUES (14,'admin','123','administrador','Rogério Almeida Pereira','rogerioalmp@gmail.com');
+INSERT INTO `entrar` VALUES (14,'admin','123','administrador','Rogério Almeida','rogerioalmp@gmail.com');
 /*!40000 ALTER TABLE `entrar` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -173,7 +173,7 @@ CREATE TABLE `venda` (
 
 LOCK TABLES `venda` WRITE;
 /*!40000 ALTER TABLE `venda` DISABLE KEYS */;
-INSERT INTO `venda` VALUES (1,0,'1=1,2','Maria Gabriela Almeida Pereira','Rogério Almeida Pereira','Refrigerante Coca-Cola 2L','12','28102011','Bela Paisagem'),(2,0,'1=1,4','Maria Gabriela Almeida Pereira','Rogério Almeida Pereira','Refrigerante Coca-Cola 2L','21','31102011','Bela Paisagem');
+INSERT INTO `venda` VALUES (1,0,'1=1,2','Ana Joaquina','Rogério Almeida','Refrigerante Coca-Cola 2L','12','28102011','Jardins'),(2,0,'1=1,4','Ana Joaquina','Rogério Almeida','Refrigerante Coca-Cola 2L','21','31102011','Jardins');
 /*!40000 ALTER TABLE `venda` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
